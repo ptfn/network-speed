@@ -1,6 +1,5 @@
 import psutil as ps
-import time
-import sys
+import time, sys
 
 
 def main():
